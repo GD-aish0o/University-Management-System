@@ -1,0 +1,47 @@
+{
+  "name": "uni-management-system-site",
+  "version": "1.0.0",
+  "description": "\"A programmed version of university management system using (OOP) Object Oriented Programming. where (for instance) University seniors can store or manage data of students, Instructors,and courses along with departments.\"",
+  "main": "OOP.js",
+  "type" :"module",
+  "bin"  : "OOP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "management",
+    "system",
+    "beginner",
+    "student",
+    "node",
+    "typescript",
+    "cli",
+    "OOP",
+    "object",
+    "oriented",
+    "programmig",
+    "classes",
+    "courses",
+    "university",
+    "managerSite",
+    "site",
+    "arrange",
+    "organize",
+    "junior",
+    "programmer",
+    "inquirer",
+    "class",
+    "inherit",
+    "parent",
+    "child",
+    "department"
+  ],
+  "author": "Aqsa Qazi (GD-aish0o)",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
